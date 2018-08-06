@@ -1,0 +1,203 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+header{
+    text-align: center;
+    margin-top: 45px;
+}
+main{
+    margin-top: 52px;
+    padding-left: 50px;
+}
+.contenido{
+    width: 100%;
+}
+
+.col1{
+    width: 401.531px;
+    height: 534.453px;
+    display: inline-table;
+    vertical-align: top;
+}
+.col2{
+    width: 33%;
+    display: inline-table;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: -0.75px;
+    vertical-align: top;
+}
+.col2 .row{
+    width: auto;
+    display: block;
+    margin-bottom: 6px;
+}
+.col2 .uno{
+    color: #d53e35;
+    width: 150px;
+    display: inline
+}
+.col2 .dos{
+    color: #fff;
+    width: 150px;
+    display: inline;
+    }
+.col2 .tres{
+    color: rgb(245, 199, 70);
+    width: 150px;
+    display: inline;
+        }
+.col3{
+    display: inline-table;
+    width: 327px;
+    height: 598px;
+    margin-left: 18px;
+}
+.tickets{
+    background-color: rgb(213, 62, 53);
+    height: 60px;
+    width: 380px;
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+    text-align: center;
+}
+.email{
+    background-color: rgb(213, 62, 53);
+    height: 60px;
+    width: 1130px;
+    display: block;
+    padding-top: -3px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    -webkit-text-stroke-color: rgb(245, 199, 70);
+    -webkit-text-stroke-width: 1px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: 9px;
+    text-align: center;
+    margin-bottom: 60px;
+    padding-bottom: 10px;
+}
+.form{
+    display: block;
+    text-align: center;
+}
+.form1{
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+    letter-spacing: -1px;
+    vertical-align: middle;
+    padding-left: 10px;
+    padding-bottom: 18px;
+    border-bottom-color: rgb(141, 28, 96);
+    border-bottom-width: 8px;
+    border-bottom-style: solid;
+    width: 445.391px;
+    height: 34px;
+    display: inline-block;
+    text-align: left;
+}
+.form2{
+    width: 190px;
+    height: 50px;
+    background-color: rgb(253, 204, 40);
+    -webkit-text-stroke-color: #fff;
+    -webkit-text-stroke-width: 1px;
+    display: inline-block;
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+    padding-bottom: 5px;
+    margin-left: 8px;
+}
+.form2:hover{
+    background-color: #fff;
+    transition-duration: 1s;
+}
+.terms{
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    display: block;
+    margin-left: 860px;
+}
+.enter{
+    width: 190px;
+    height: 62px;
+    background-color: rgb(253, 204, 40);
+    -webkit-text-stroke-color: #fff;
+    -webkit-text-stroke-width: 1px;
+    display: block;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    padding-top: 10px;
+    margin-left: 8px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+.enter:hover{
+    background-color: #fff;
+    transition-duration: 1s;
+}
+.socials{
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+}
+li{
+    color: #fff;
+    display: inline;
+    list-style: none;
+}
+.fab{
+    margin-right: 22px;
+    font-size: 20px;
+}
+.spotify{
+    width: 98px;
+    height: 18px;
+    display: inline;
+    background-color: rgb(46, 189, 89);
+    padding: 5px 15px 5px 5px;
+    border-radius: 18px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+.fa-spotify{
+    vertical-align: text-bottom;
+}
+.copyright{
+    color: rgb(68, 65, 65);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8.44px;
+    letter-spacing: 1px;
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
